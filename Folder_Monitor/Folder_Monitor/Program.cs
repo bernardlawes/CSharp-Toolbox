@@ -7,6 +7,11 @@ using System.Threading.Tasks;
 using System.Diagnostics;
 using Serilog;
 
+
+/// <summary>
+/// The purpose of this code is to monitor a specified folder for file changes and copy the changed files to a destination folder.
+/// </summary>
+
 namespace Folder_Monitor
 {
     /// <summary>

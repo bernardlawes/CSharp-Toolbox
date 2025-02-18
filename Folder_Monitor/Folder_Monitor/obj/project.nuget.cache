@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2QwqBwcjvKI=",
+  "dgSpecHash": "xYbKk9JIIOw=",
   "success": true,
-  "projectFilePath": "D:\\Repositories\\GitHub\\Folder_Monitor\\Folder_Monitor\\Folder_Monitor.csproj",
+  "projectFilePath": "D:\\Repositories\\CSharp\\Folder_Monitor\\Folder_Monitor\\Folder_Monitor.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\berna\\.nuget\\packages\\serilog\\4.2.0\\serilog.4.2.0.nupkg.sha512",
     "C:\\Users\\berna\\.nuget\\packages\\serilog.sinks.console\\6.0.0\\serilog.sinks.console.6.0.0.nupkg.sha512"

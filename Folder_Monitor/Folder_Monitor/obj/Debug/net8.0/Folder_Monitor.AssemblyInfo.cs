@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Folder_Monitor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32783cacb0ecb50e374e468bb07cbddd1cceae2a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Folder_Monitor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Folder_Monitor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repositories\\GitHub\\Folder_Monitor\\Folder_Monitor\\Folder_Monitor.csproj": {}
+    "D:\\Repositories\\CSharp\\Folder_Monitor\\Folder_Monitor\\Folder_Monitor.csproj": {}
   },
   "projects": {
-    "D:\\Repositories\\GitHub\\Folder_Monitor\\Folder_Monitor\\Folder_Monitor.csproj": {
+    "D:\\Repositories\\CSharp\\Folder_Monitor\\Folder_Monitor\\Folder_Monitor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repositories\\GitHub\\Folder_Monitor\\Folder_Monitor\\Folder_Monitor.csproj",
+        "projectUniqueName": "D:\\Repositories\\CSharp\\Folder_Monitor\\Folder_Monitor\\Folder_Monitor.csproj",
         "projectName": "Folder_Monitor",
-        "projectPath": "D:\\Repositories\\GitHub\\Folder_Monitor\\Folder_Monitor\\Folder_Monitor.csproj",
+        "projectPath": "D:\\Repositories\\CSharp\\Folder_Monitor\\Folder_Monitor\\Folder_Monitor.csproj",
         "packagesPath": "C:\\Users\\berna\\.nuget\\packages\\",
-        "outputPath": "D:\\Repositories\\GitHub\\Folder_Monitor\\Folder_Monitor\\obj\\",
+        "outputPath": "D:\\Repositories\\CSharp\\Folder_Monitor\\Folder_Monitor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
