@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35806.99 d17.13
+VisualStudioVersion = 17.13.35806.99
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Audio_Video_FFMPEG", "Audio_Video_FFMPEG\Audio_Video_FFMPEG.csproj", "{7B56D59F-4674-4199-976D-87B2CF48A1BF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FFMPEG_Console", "FFMPEG_Console\FFMPEG_Console.csproj", "{7B56D59F-4674-4199-976D-87B2CF48A1BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
